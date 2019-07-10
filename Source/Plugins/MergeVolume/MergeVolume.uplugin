@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MergeVolume",
+	"Description": "Automatically merge large meshes in a volume and instance smaller ones.",
+	"Category": "Other",
+	"CreatedBy": "Alexis Morin",
+	"CreatedByURL": "https://github.com/alexismorin",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}
