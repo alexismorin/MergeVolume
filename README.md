@@ -1,5 +1,5 @@
 # Merge Volume
-# UE4.21 Tool to merge larger meshes and instance smaller ones.
+### UE4.21 Tool to merge larger meshes and instance smaller ones.
 
 ![gif](images/gif.gif)
 
